@@ -158,7 +158,7 @@ function App() {
   </button>
 </div>
             <div className="trust-row">
-              <span><ShieldCheck size={17} /> Free to play</span>
+              <span><ShieldCheck size={17} />Earn Real Cash</span>
               <span><Zap size={17} /> Fast experience</span>
               <span><Gamepad2 size={17} /> Casual games</span>
             </div>
@@ -172,7 +172,7 @@ function App() {
           >
             <div className="hero-card">
               <div className="card-top">
-                <span>DLOTTERY7</span>
+                <span>LOTTERY7</span>
                 <span className="online"><i /> ONLINE</span>
               </div>
 
@@ -184,7 +184,7 @@ function App() {
                 <img src="/logo.png" alt="DLOTTERY7" />
                 <div className="art-caption">
                   <small>WELCOME TO</small>
-                  <strong>DLOTTERY7</strong>
+                  <strong>LOTTERY7</strong>
                   <span>REAL GAMING EXPERIENCE</span>
                 </div>
               </div>
@@ -199,18 +199,18 @@ function App() {
         </section>
 
         <section className="quick-strip wrap">
-          <div><Gift size={20} /><span><b>Daily Challenges</b> — earn non-monetary XP and unlock achievements</span></div>
+          <div><Gift size={20} /><span><b>Daily Challenges</b> — earn VIP XP and unlock achievements</span></div>
           <button onClick={() => setAuth("register")} type="button">Join Free <ArrowRight size={16} /></button>
         </section>
 
         <section id="features" className="wrap section">
           <div className="feature-shell">
             <div className="feature-copy">
-              <span className="eyebrow">WHY DLOTTERY7</span>
+              <span className="eyebrow">WHY LOTTERY7</span>
               <h2>Built for a <span>better</span> gaming experience</h2>
               <p>
                 A polished interface, smooth motion and clear navigation make
-                the demo feel like a real modern gaming product.
+                the Real feel like a real modern gaming product.
               </p>
               <button
   className="primary"
@@ -257,9 +257,9 @@ function App() {
 
             <div className="about-copy">
               <span className="eyebrow">ABOUT THE PLATFORM</span>
-              <h2>Simple outside.<br /><span>Powerful inside.</span></h2>
+              <h2>Simple outside.<br /><span>Powerful inside</span></h2>
               <p>
-                DLOTTERY7 is presented as a free gaming landing-page concept
+                LOTTERY7 is presented as a free gaming landing-page concept
                 for a project demo. The structure is ready to connect to your
                 own games, authentication system, profiles and backend later.
               </p>
@@ -274,7 +274,7 @@ function App() {
         </section>
         <section id="gaming-guide" className="wrap section seoContent">
   <div className="seoIntro">
-    <span className="eyebrow">DLOTTERY7 GAMING GUIDE</span>
+    <span className="eyebrow">LOTTERY7 GAMING GUIDE</span>
 
     <h2>
       Discover a better
@@ -539,7 +539,7 @@ Top performers often receive additional perks like bonus spins or exclusive invi
         <ArrowRight size={18} />
       </button>
 
-      <small>Get 3X extra demo points</small>
+      <small>Get 3X extra cash bonus</small>
     </div>
   </motion.div>
 </section>
