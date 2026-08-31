@@ -576,6 +576,20 @@ Top performers often receive additional perks like bonus spins or exclusive invi
   <div className="lottery-footer-copy">
     © 2026 <a href="#home">LOTTERY 7</a>
   </div>
+  <div className="vln-contact-text">
+  Contact for website & landing page creation
+  <br />
+  Telegram:{" "}
+  <a
+    href="https://t.me/vlnheree"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    @vlnheree
+  </a>
+</div>
+
+<div className="vln-credit">VLN</div>
 </footer>
       <AnimatePresence>
         {auth && (

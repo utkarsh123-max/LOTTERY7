@@ -4266,3 +4266,30 @@ footer.lottery-footer {
     padding: 12px;
   }
 }
+.vln-contact-text {
+  margin: 18px auto 8px;
+  text-align: center;
+  font-size: 11px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.vln-contact-text a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.vln-contact-text a:hover {
+  text-decoration: underline;
+}
+
+.vln-credit {
+  text-align: center;
+  margin-top: 10px;
+  padding-bottom: 12px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: rgba(255, 255, 255, 0.55);
+}
