@@ -337,10 +337,10 @@ function App() {
 
   <div className="seoArticle">
 
-    <h2>What is DLOTTERY7?</h2>
+    <h2>What is LOTTERY7?</h2>
 
     <p>
-      DLOTTERY7 is a free gaming hub that brings casual games,
+      LOTTERY7 is a Real Money gaming hub that brings casual games,
       challenges, achievements and score-based progression together
       in one modern platform.
     </p>
