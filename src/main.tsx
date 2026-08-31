@@ -259,8 +259,8 @@ function App() {
               <span className="eyebrow">ABOUT THE PLATFORM</span>
               <h2>Simple outside.<br /><span>Powerful inside</span></h2>
               <p>
-                LOTTERY7 is presented as a free gaming landing-page concept
-                for a project demo. The structure is ready to connect to your
+                LOTTERY7 is presented as a Real gaming landing-page concept
+                for a better gaming experience. The structure is ready to connect to your
                 own games, authentication system, profiles and backend later.
               </p>
 
